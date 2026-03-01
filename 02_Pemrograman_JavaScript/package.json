@@ -1,0 +1,16 @@
+{
+  "name": "02_pemrograman_javascript",
+  "version": "1.0.0",
+  "description": "Javascript",
+  "repository": {
+    "type": "git",
+    "url": "KPL_TONY_HENDRAWAN_103122400021_SE-08-01"
+  },
+  "license": "ISC",
+  "author": "Tony Hendrawan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
