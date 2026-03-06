@@ -1,0 +1,9 @@
+.kotak-input {
+    display: block;
+    resize: none;
+}
+
+p>span {
+    color: coral;
+    font-weight: bold;
+}
