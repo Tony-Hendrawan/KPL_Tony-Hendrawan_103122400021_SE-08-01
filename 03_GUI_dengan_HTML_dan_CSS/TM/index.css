@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    font-family: 'inconsolata', monospace;
+}
+
+.kotak-input {
+    display: block;
+    resize: none;
+    margin: auto;
+}
+
+p>span {
+    color: coral;
+    font-weight: bold;
+}
