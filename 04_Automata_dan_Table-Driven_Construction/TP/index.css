@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    font-family: 'inconsolata', monospace;
+}
+
+.kotak-input {
+    display: block;
+    resize: none;
+    margin: auto;
+}
+
+/* Ubah warna untuk mode gelap */
+
+.mode-gelap {
+    background-color: #171b25;
+    color: #ebecf7;
+}
+
+.mode-gelap .kotak-input {
+    background-color: #2e3443;
+    color: #ebecf7;
+}
+
+.mode-gelap button {
+    background-color: #29ddcc;
+    color: initial;
+    border: none;
+}
