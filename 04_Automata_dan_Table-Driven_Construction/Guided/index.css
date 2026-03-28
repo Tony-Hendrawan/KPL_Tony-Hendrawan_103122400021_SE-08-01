@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    font-family: 'Inconsolata', monospace;
+}
+
+.kotak-input {
+    display: block;
+    resize: none;
+    margin: auto;
+}
+
+button {
+    font-family: 'Inconsolata', monospace;
+    background-color: #f0f0f0;
+    color: #333333;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    padding: 8px 16px;
+}
+
+span {
+    color: #ff7f50;
+    font-weight: bold;
+}
+
+.mode-gelap {
+    background-color: #2d323e;
+    color: #ffffff;
+}
+
+.mode-gelap .kotak-input {
+    background-color: transparent;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+}
+
+.mode-gelap button {
+    background-color: #29ddcc;
+    color: #000000;
+    border: none;
+}
