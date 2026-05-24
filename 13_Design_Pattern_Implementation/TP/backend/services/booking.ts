@@ -1,5 +1,4 @@
 /**
- * backend/services/booking.ts
  * TEKNIK: Automata — transisi status via FSM
  * Handles pemesanan + pembayaran
  */
