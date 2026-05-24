@@ -1,9 +1,5 @@
 // @ts-nocheck
 
-/**
- * backend/controllers/booking.ts
- * TEKNIK: API — handler pemesanan endpoints
- */
 
 import { Request, Response } from "express";
 import * as bookingService from "../services/booking";
